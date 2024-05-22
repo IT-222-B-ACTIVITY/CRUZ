@@ -1,0 +1,10 @@
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Hello Tosca
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Welcome!
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Seats are available for 3 passenger/s on 2024-04-15.
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Flight booked successfully for 3 passenger/s.
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Flight Number: FLIGHT221
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Passenger Name: Michael Tracey, Arbel Perez, Kyle Brianne
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Passenger ID: 2212312
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Departure: Japan
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Destination: Manila
+Wed May 22 8:29:50 CEST 2024 - (Flight) - Date: 2050-09-09
